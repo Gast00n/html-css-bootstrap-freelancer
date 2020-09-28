@@ -7,7 +7,7 @@
 .nav-menu .col-md-3 {
     background: #3d5a77;
     height: 50px;
-    margin-top: 25px;;
+    margin-top: 25px;
 }
 
 /* HERO BOX */
@@ -71,4 +71,28 @@
 .contatti .col-lg-8 {
     height: 350px;
     background: #d1d1d1;
+}
+
+/* FOOTER */
+
+.footer {
+    background: #2c3e50;
+}
+
+.footer .row {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.footer .box {
+    background: #3d5a77;
+    height: 150px;
+    padding: 5px;
+}
+
+/* COPY */
+
+.copyright {
+    height: 100px;
+    background: #1a252f;
 }
