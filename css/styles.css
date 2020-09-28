@@ -8,3 +8,14 @@
     height: 50px;
     margin-top: 25px;;
 }
+
+.hero-intro {
+    background: #1abc9c;
+    height: 600px;
+}
+
+.hero-intro .col-xs-12 {
+    background: #0e7e67;
+    height: 560px;
+    margin-top: 20px;
+}
