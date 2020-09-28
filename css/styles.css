@@ -56,3 +56,19 @@
     background: #0e7e67;
     padding: 10px;
 }
+
+/* CONTATTI */
+
+.contatti {
+    background: #fff;
+}
+
+.contatti .row {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.contatti .col-lg-8 {
+    height: 350px;
+    background: #d1d1d1;
+}
