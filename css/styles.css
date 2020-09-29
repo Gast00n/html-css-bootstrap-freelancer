@@ -29,7 +29,7 @@ header {
     color: #fff;
     text-align: center;
     background-color: transparent;
-    border: 2px solid;
+    border: 2px solid transparent;
     padding: 10px 35px;
     font-size: 20px;
     line-height: 45px;
@@ -39,12 +39,12 @@ header {
 
 .btn-primary {
     background: #1abc9c;
-    border: 2px solid;
+    border: 2px solid transparent;
 }
 
 .btn-primary:hover {
     background: #0e7e67;
-    border: 2px solid #0e7e67;
+    border: 2px solid transparent;
 
 }
 
