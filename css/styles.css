@@ -17,6 +17,12 @@ h2 {
     color:#fff;
 }
 
+h3 {
+    font-size:30px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
 header {
     font-family: 'Montserrat', sans-serif;
 }
@@ -203,22 +209,16 @@ header {
 
 .footer {
     background: #2c3e50;
+    padding: 75px 0;
+    color: #fff;
 }
 
-.footer .row {
-    margin-top: 100px;
-    margin-bottom: 100px;
-}
-
-.footer .box {
-    background: #3d5a77;
-    height: 150px;
-    padding: 5px;
-}
 
 /* COPY */
 
 .copyright {
-    height: 100px;
     background: #1a252f;
+    color: #fff;
+    line-height: 50px;
+    height: 50px;
 }
