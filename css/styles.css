@@ -140,11 +140,17 @@ header {
 
 .about {
     background: #1abc9c;
+    padding: 100px 0;
 }
 
 .about .box {
-    color:#fff;
+    margin-bottom: 50px;;
 }
+
+.about .box p {
+    color:#fff;
+    font-size: 20px;
+    line-height: 30px;}
 
 /* CONTATTI */
 
