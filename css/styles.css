@@ -120,20 +120,19 @@ header {
 /* PORTFOLIO */
 .portfolio {
     background: #fff;
+    padding: 100px 0;
 }
 
-.portfolio .row {
-    margin-top: 100px;
-    margin-bottom:100px;
-}
-
-.portfolio .row .col-md-6 {
-    padding: 5px;
+.portfolio h2 {
+    color:#2c3e50;
 }
 
 .portfolio .box {
     height: 250px;
     background: #d1d1d1;
+    margin-bottom:25px;
+    border-radius: 5px;
+    overflow: hidden;
 }
 
 /* ABOUT */
